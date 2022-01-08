@@ -40,4 +40,4 @@ Here are some ideas to get you started:
 
 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=hhyxx)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=hhyxx&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
