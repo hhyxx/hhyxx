@@ -3,8 +3,7 @@
 <hr /> 
 
 <p align="center">
-  # Hi, 👋
-  
+  <h1> Hi, 👋</h1
 </p>
 
 
